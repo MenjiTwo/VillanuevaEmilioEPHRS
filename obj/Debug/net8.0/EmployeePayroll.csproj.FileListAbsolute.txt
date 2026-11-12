@@ -1,0 +1,14 @@
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\bin\Debug\net8.0\EmployeePayroll.exe
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\bin\Debug\net8.0\EmployeePayroll.deps.json
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\bin\Debug\net8.0\EmployeePayroll.runtimeconfig.json
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\bin\Debug\net8.0\EmployeePayroll.dll
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\bin\Debug\net8.0\EmployeePayroll.pdb
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.AssemblyInfo.cs
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.dll
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\refint\EmployeePayroll.dll
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.pdb
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\EmployeePayroll.genruntimeconfig.cache
+C:\Users\Emilio\OneDrive\Documents\AppDev\EmployeePayroll\obj\Debug\net8.0\ref\EmployeePayroll.dll
